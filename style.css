@@ -1,0 +1,15 @@
+.piece{
+    border-radius: 20px;
+    font-family:sans-serif;
+   
+}
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+
+}
+.cicadaTitle{
+    display:flex;
+    justify-content: center;
+}
